@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamipyaRijal
-- 👀 I’m interested in creating my own app
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rijalsamipya@gmail.com
